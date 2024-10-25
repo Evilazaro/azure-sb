@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "sbConnection": "ADD THE SB CONNECTION STRING HERE TO WORK LOCALLY. THIS FILE WILL NOT BE PUSHED TO REPO"
+  }
+}

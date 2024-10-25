@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "ConnectionStrings": {
+    "sbConnection": "ADD THE SB CONNECTION STRING HERE TO WORK LOCALLY. THIS FILE WILL NOT BE PUSHED TO REPO"
+  },
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+    }
+}
